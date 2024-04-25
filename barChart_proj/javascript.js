@@ -31,7 +31,7 @@ var myChart = new Chart(ctx, {
             },
             subtitle: {
                 display: true,
-                text: 'For all but one year, oranges outnumbered apples'
+                text: 'School shooters are most often white'
             }
         },
         scales: {
