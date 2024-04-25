@@ -29,11 +29,11 @@ var ctx = document.getElementById('myChart').getContext('2d');
               },
               title: {
                 display: true,
-                text: 'Top 5 School Shooting types'
+                text: 'The 5 Most Common School Shooting types'
               },
               subtitle: {
                 display: true,
-                text: 'For all but one year, oranges outnumbered apples'
+                text: 'Most school shootings are targetted.'
             }
             }
           }
