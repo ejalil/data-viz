@@ -1,0 +1,19 @@
+.chartContainer {
+    width:800px;
+}
+
+.source{
+    font-family: helvetica, sans-serif;
+    font-size: .75em;
+    margin-left:15px;
+    margin-top:10px;
+    font-style: italic;
+}
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+}
